@@ -1,0 +1,399 @@
+.container-fluid{
+    color: white;
+    
+  }
+
+.cc{
+  background-image: url("https://erticonetwork.com/wp-content/uploads/2021/05/GREEN-CITY_chuttersnap-H8l6iXuzlHQ-unsplash-1280x640.jpg");
+  background-attachment: fixed;
+  border-radius: 8px;
+  background-size: cover;
+  background-repeat: no-repeat;
+ color: ghostwhite;
+  height: 80vh;
+ 
+  filter: brightness(100%);
+}
+.img-fluid3{
+  background-image: url(https://bootstrapmade.com/demo/templates/Impact/assets/img/about-2.jpg);
+ 
+  /* width: 450px;
+  height: 380px;  */
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+  color: aliceblue;
+  max-width: 100%;
+  height: 50%; 
+ 
+  border-radius: 10px;
+}
+.col{
+  color: gold;
+  font-size: 15px;
+  text-align: left;
+  
+}
+
+    .btn-btn-success{
+      background-color: rgb(26, 144, 130);
+      color: white;
+      border-radius: 100px;
+      width: 150px;
+      height: 50px;
+      border: 1px solid ghostwhite;
+      opacity: 0.7;
+       }
+       .btn-btn-success:hover{
+        background-color:  rgb(0, 131, 116);
+        
+
+        
+       
+       }
+
+    .but:hover {
+       border: 40px; 
+      opacity: 0.5;
+      border-radius: 40px;
+      background-color:  rgb(0, 131, 116)
+    }
+     .box {
+      position: relative;
+      left: 30px;
+      margin-left: 15px;
+      bottom: 30px;
+      width: 250px;
+      height: 250px;
+      font-size: 20px;
+      font-weight: 900px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 10px;
+      background-color: rgb(0, 131, 116);
+      /* margin-top: -20px; */
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      direction: flex;
+      margin-right: 10px;
+      
+    }
+    .ram{
+      text-align: center;
+      font-size: 60px;
+    }
+   p{
+    font-size: 20px;
+    
+   }
+   
+   .img{
+    border-radius: 20px;
+   
+   }
+.op{
+  opacity: 0.5;
+
+}
+.bold{
+  font-size: 30px;
+}
+.siva{
+  font-size: 30px;
+}
+.lor{
+  opacity: 0.5;
+}
+ .size{
+  size: 40px;
+  font-size: 40px;
+ } 
+.about{
+  font-size: 40px;
+  text-align: center;
+}
+.pic{
+  border-radius: 200px;
+  width: 50px;
+  height: 50px;
+  margin-top: +10px;
+  margin-left: 10px;
+  
+}
+.photo{
+text-align: left;
+  width: 380px;
+  height: 250px;
+}
+.pics{
+  border-radius: 500px;
+  width: 50px;
+  height: 50px;
+ margin-left: 20px;
+ margin-top: -20px;
+
+}
+ .butt{
+  background-color:transparent ;
+  border:  thin solid ;
+  color:ghostwhite;
+  padding: 10px ;
+font-size: 18px;
+ }
+
+ .butt:hover{
+  background-color: rgb(0,118,104);
+  border-color: rgb(0,118,104);
+ }
+
+.viv{
+font-size: 40px;
+opacity: 0.4;
+}
+.you{
+font-size: 60px;
+margin-left: 30px;
+color:  black;
+}
+
+.img-fluid1{
+  text-align: center;
+  margin-left: 30px;
+  margin-top: +10px;
+}
+.logo{
+  border-radius: 30px;
+  margin-left: 30px;
+ color: silver;
+ font-size: 20px; 
+ /* border-style:solid; */
+ border: 2px  solid;
+ padding: 5px 10px;
+
+}
+.logo:hover{
+
+border-radius: 30px;
+color:rgb(0, 131, 116);
+background-color: white;
+}
+.buto{
+  border-color: ghostwhite;
+  border-radius: 150px;
+  width: 150px;
+  height: 50px;
+  margin-top: -5px;
+background-color: transparent;
+color:grey;
+}
+ .buto:hover{
+color: ghostwhite;
+      background-color: rgb(0, 131, 116);
+}
+ 
+.box1{
+  width: 350px;
+  height: 480px;
+  padding: 10px;
+  background-color: rgb(0, 131, 116);
+  margin-left: -10px;
+}
+
+.boxes{
+  width: 300px;
+  height: 100px;
+  margin-left: 15px;
+  margin-top: 10px;
+  background-color: rgb(26, 144, 130);
+}
+.ico{
+  color: white;
+  font-size: 20px;
+  margin-left: 20px;
+  
+ padding: 5px 10px;
+  color: white;
+
+  background-color: #008372;
+  border-radius: 50px;
+}
+.id{
+  padding: 5px 10px;
+  
+  border-radius: 50px;
+  border: 1px  solid;
+  
+  opacity: 0.7;
+}
+.id:hover{
+ color:rgb(0, 131, 116);
+background-color: white;
+}
+
+.ico:hover{
+ 
+ background-color: white;
+  color: rgb(0, 131, 116); 
+  
+}
+.top{
+  margin-left: 70px;
+  margin-top: -40px;
+}
+.tops{
+  margin-top: -20px;
+}
+.box2{
+  width: 100%;
+  height: 480px;
+  
+
+}
+.person{
+  width: 300px;
+  height: 30px;
+  margin-left: 30px;
+  
+}
+.person:hover{
+  outline-color: rgb(0, 131, 116) ;
+}
+
+.persons:hover{
+  outline-color: rgb(0, 131, 116) ;
+}
+
+.butss{
+  border-radius: 300px;
+ width: 150px;
+ height: 50px;
+  padding: 10px;
+  background-color: rgb(0, 131, 116);
+  
+  
+}
+.butss:hover{
+  opacity: 0.7;
+}
+.rohee{
+  opacity: 0.7;
+  
+}
+.rohee:hover{
+ color: whitesmoke;
+
+}
+#fixed{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  font-size: 30px;
+  color: white;
+  background-color: rgb(0, 131, 116);
+  border-radius: 40px;
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  margin-right: 15px;
+}
+.box5{
+  width: 350px;
+  height: 550px;
+  border-radius: 10px;
+ 
+  padding: 30px;
+}
+.box6{
+  width: 350px;
+  height: 620px;
+   margin-top: -30px;
+   
+ padding: 30px;
+ border:5px solid #008372;
+ border-radius: 10px;
+}
+.box7{
+  width: 350px;
+  height: 550px;
+  border-radius: 10px;
+  
+  padding: 30px;
+}
+.emo{
+  padding: 10px 15px;
+  border-radius: 60px;
+  font-size: 30px;
+  background-color: rgb(0, 131, 116);
+}
+.ohh{ 
+font-size: 40px;
+
+color: transparent;
+margin-left: -20px;
+margin-top: -20px;
+opacity: 0.7;
+}
+.ohh:hover{
+  color: rgb(0, 131, 116);
+  background-color: transparent;
+}
+.raw{
+  padding: 10px 20px;
+  border-radius: 1000px;
+  font-size: 60px;
+  color: ghostwhite;
+  background-color: rgb(0, 131, 116); 
+  
+}
+.raaw{
+  padding: 10px 18px;
+  border-radius: 500px;
+  font-size: 40px;
+  margin-left: 240px;
+ 
+  color: ghostwhite;
+  background-color: rgb(0, 131, 116); 
+ 
+}
+.see{
+  padding: 10px 20px;
+  border-radius: 500px;
+  font-size: 60px;
+  color: ghostwhite;
+  background-color: rgb(0, 131, 116); 
+  }
+  .img-fluid2:hover{
+    scale: 1.1;
+  }
+ .cat:hover{
+  color: #008372;
+ }
+ .three::after{
+  content: "";
+  display: block;
+  bottom: -10px;
+  width: 150px;
+  height: 5px;
+  margin-left: 10px;
+  background-color: silver;
+  position: relative;
+  opacity: 0.5;
+ }
+ .four::after{
+  content: "";
+  display: block;
+  
+  bottom: -10px;
+  width: 200px;
+  height: 5px;
+  margin-left: 10px;
+  background-color: silver;
+  position: relative;
+  opacity: 0.5;
+ }
+ .card-text2:hover{
+color: rgb(0, 131, 116)
+ }
